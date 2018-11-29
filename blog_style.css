@@ -22,10 +22,36 @@
 	margin: 10px 50px 15px 75px;
  }
  
+  h4{
+	font-family: "Lucida Console", Monaco, monospace;
+	color: gray; 
+	font-size: 20px;
+	margin: 10px 50px 15px 75px;
+ }
+ 
+  ul{
+	font-family: "Lucida Console", Monaco, monospace;
+	color: gray; 
+	font-size: 20px;
+	margin: 10px 50px 15px 75px;
+ }
+ 
+   ol{
+	font-family: "Lucida Console", Monaco, monospace;
+	color: gray; 
+	font-size: 20px;
+	margin: 10px 50px 15px 75px;
+ }
+ 
   p{
 	font-family: 'Oswald', sans-serif;
 	color: white; 
 	font-size: 20px;
 	margin: 0px 150px 15px 100px;
 	line-height: 30px;	
+ }
+ 
+   img{ 
+	font-size: 20px;
+	margin: 10px 50px 15px 75px;
  }
